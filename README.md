@@ -1,2 +1,25 @@
-# newrepository
-adaaaaadadadadad
+﻿# Week-2-Hard-Workers-Arcade
+Plan It:
+What is the goal of the website?
+To allow the user to mark tasks as completed by playing a claw machine game.
+
+Who are you building for, and what do they care about?
+Busy people who need to manage the tasks they perform.
+
+Describe how a user should use the website from the moment they visit it. What should they see first, what should they click, and what should happen next?
+Enter tasks and due date in textbox. Below textbox, there is a start button. It spawns balls in a claw machine on the right. Balls are black with a white question mark. User can grab a ball with a button. This reveals hidden task (soonest). 
+
+What arcade game are you basing this project on?
+Claw Machine.
+
+How will you mix this arcade game with the task tracking?
+The balls the user grabs represent the tasks the need to be done. The soonest task is always picked first by the claw machine.
+
+How will you make the website look and feel like a real arcade?
+Use Times New Roman font and a white background.
+
+Test It:
+Give the user the ability to add items multiple times.
+
+Expand It:
+Include a mechanic for energy. Now, each time you play, you must pay 1 energy. The user will collect 1 energy per consecutive day when the open the app (the energy collected per day starts at 1 and increases by 1 for each consecutive day the app is opened). The maximum energy that can be collected in one day is 7. The maximum total energy that the user can have at any one time is 50.
